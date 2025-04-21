@@ -1,2 +1,2 @@
 # Awaash-bunee-
-Zerihun website 
+primary website 
