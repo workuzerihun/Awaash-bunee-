@@ -6,16 +6,7 @@ Thanks for sharing the file. I reviewed your HTML file for Awaash Bunee Primary 
 
 There are a couple of unclosed or misused tags that could cause rendering problems:
 
-The CSS block inside .container is broken (includes HTML tag p inside CSS).
-
-<li> tag for "Grades" is missing a closing </a> tag.
-
-There are stray or unclosed tags (</p> without an opening <p>, misplaced <div>).
-
-
-2. Improved & Cleaned-up Version
-
-Here’s a corrected version of your HTML:
+The CSS block inside .container 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -87,14 +78,5 @@ Here’s a corrected version of your HTML:
 </body>
 </html>
 
-Want Me to:
 
-Add a responsive layout?
-
-Create the other pages (about.html, register.html, etc.)?
-
-Send a zipped version via Telegram?
-
-
-Let me know how you'd like to proceed!
 
